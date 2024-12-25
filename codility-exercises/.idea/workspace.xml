@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc490a4b-b68e-426f-95ac-f2c1659c2471" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/developer/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/developer/exercises/ForExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/developer/exercises/SimulacaoBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/developer/exercises/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/developer/exercises/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/developer/exercises/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/developer/exercises/Solution1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/developer/exercises/Solution2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/developer/exercises/Solution3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../accounts-services/src/main/java/com/dio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../accounts-services/src/main/java/com/dio/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2h32lyZAH9ZDwSJPErK937aWDNN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SimulacaoBancaria.executor": "Run",
+    "JUnit.All in codility-exercises (1).executor": "Debug",
+    "JUnit.All in codility-exercises (2).executor": "Run",
+    "JUnit.All in codility-exercises.executor": "Run",
+    "JUnit.Solution1Test.executor": "Debug",
+    "JUnit.Solution1Test.testCharsAndNumberEven.executor": "Run",
+    "JUnit.Solution1Test.testCharsAndNumberOdd.executor": "Run",
+    "JUnit.Solution1Test.testCharsEvenNumberOdd.executor": "Run",
+    "JUnit.Solution1Test.testEdgeCaseEmptyString.executor": "Run",
+    "JUnit.Solution1Test.testEdgeCaseSingleCharacter.executor": "Run",
+    "JUnit.Solution1Test.testEdgeCaseSingleValidCharacter.executor": "Run",
+    "JUnit.Solution1Test.testJustChars.executor": "Run",
+    "JUnit.Solution1Test.testMultipleValidPasswords.executor": "Run",
+    "JUnit.Solution1Test.testNoValidCombination.executor": "Run",
+    "JUnit.Solution1Test.testSingleValidPassword.executor": "Run",
+    "JUnit.Solution1Test.testValidAndInvalidMix.executor": "Run",
+    "JUnit.Solution1Test.testcombination.executor": "Run",
+    "JUnit.Solution2Test.testSixSpacewithWater.executor": "Run",
+    "JUnit.Solution2Test.testThereIsWater.executor": "Run",
+    "JUnit.Solution2Test.testThereIsWater1.executor": "Run",
+    "JUnit.Solution2Test.testThereIsWater2.executor": "Run",
+    "JUnit.Solution2Test.testThreeSpacesWithoutWater.executor": "Run",
+    "JUnit.Solution2Test.testsucesss.executor": "Run",
+    "JUnit.test in codility-exercises.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Solution1Test (1).executor": "Run",
+    "TestNG.Solution1Test.executor": "Run",
+    "TestNG.Solution1Test.testJustChars.executor": "Run",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/apbuffo/workArea/main/private/demo",
+    "onboarding.tips.debug.path": "/home/apbuffo/workArea/main/education/codility-exercises/src/main/java/com/developer/Main.java",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propCompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.developer.exercises" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.developer.exercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SimulacaoBancaria">
+    <configuration name="SimulacaoBancaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.developer.exercises.SimulacaoBancaria" />
+      <module name="codility-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.developer.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2Test.testSixSpacewithWater" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codility-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.developer.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.developer.exercises" />
+      <option name="MAIN_CLASS_NAME" value="com.developer.exercises.Solution2Test" />
+      <option name="METHOD_NAME" value="testSixSpacewithWater" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2Test.testThereIsWater1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codility-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.developer.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.developer.exercises" />
+      <option name="MAIN_CLASS_NAME" value="com.developer.exercises.Solution2Test" />
+      <option name="METHOD_NAME" value="testThereIsWater1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2Test.testThereIsWater2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codility-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.developer.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.developer.exercises" />
+      <option name="MAIN_CLASS_NAME" value="com.developer.exercises.Solution2Test" />
+      <option name="METHOD_NAME" value="testThereIsWater2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2Test.testThreeSpacesWithoutWater" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codility-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.developer.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.developer.exercises" />
+      <option name="MAIN_CLASS_NAME" value="com.developer.exercises.Solution2Test" />
+      <option name="METHOD_NAME" value="testThreeSpacesWithoutWater" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SimulacaoBancaria" />
+      <item itemvalue="JUnit.Solution2Test.testSixSpacewithWater" />
+      <item itemvalue="JUnit.Solution2Test.testThereIsWater1" />
+      <item itemvalue="JUnit.Solution2Test.testThereIsWater2" />
+      <item itemvalue="JUnit.Solution2Test.testThreeSpacesWithoutWater" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimulacaoBancaria" />
+        <item itemvalue="JUnit.Solution2Test.testSixSpacewithWater" />
+        <item itemvalue="JUnit.Solution2Test.testThreeSpacesWithoutWater" />
+        <item itemvalue="JUnit.Solution2Test.testThereIsWater2" />
+        <item itemvalue="JUnit.Solution2Test.testThereIsWater1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc490a4b-b68e-426f-95ac-f2c1659c2471" name="Changes" comment="" />
+      <created>1716808598457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716808598457</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/developer/MainApplication.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/developer/exercises/Solution1Test.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/developer/exercises/Solution1Test.java</url>
+          <line>41</line>
+          <properties class="com.developer.exercises.Solution1Test" method="testJustCharsEven">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/codility_exercises$Solution1Test.ic" NAME="Solution1Test Coverage Results" MODIFIED="1716810508279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.developer.exercises.*</FILTER>
+    </SUITE>
+  </component>
+</project>
