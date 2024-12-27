@@ -1,6 +1,9 @@
 package com.developer;
 
 import java.util.List;
+import java.util.function.Consumer;
+import java.util.function.Function;
+import java.util.function.Predicate;
 // Descrição: Imprimir a soma de números 10,1,2,3,4,5,4,3,2,1,9
 
 public class LambdaStreamOperationExample {
@@ -19,6 +22,10 @@ public class LambdaStreamOperationExample {
         System.out.println ("\n ---------------------------------");
         System.out.println ("***** 3 - Stream Sum aggregate  - Funcional! *****");
         printSumNumericInListFunctionalMethodReference(numbers);
+
+        System.out.println ("\n ---------------------------------");
+        System.out.println ("***** 4 - Stream/Predicate/Function/Consumer  - Funcional! *****");
+        printAdvancedStream1(numbers);
 
     }
 
@@ -48,5 +55,24 @@ public class LambdaStreamOperationExample {
 
         }
         print(sum);
+    }
+
+    private static void printAdvancedStream1(List<Integer> numbers) {
+        numbers.stream()
+                .filter(isEvenNumberPredicate())
+                .map(SquareFunction())
+                .forEach(printConsumer());
+    }
+
+    private static Consumer<Integer> printConsumer() {
+        return LambdaStreamOperationExample::print;
+    }
+
+    private static Function<Integer, Integer> SquareFunction() {
+        return number -> number * number;
+    }
+
+    private static Predicate<Integer> isEvenNumberPredicate() {
+        return number -> number % 2 == 0;
     }
 }

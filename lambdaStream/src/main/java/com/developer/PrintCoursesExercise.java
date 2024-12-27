@@ -19,6 +19,9 @@ public class PrintCoursesExercise {
         System.out.println ("\n ---------------------------------");
         System.out.println ("***** 4 - Print qtd of char per course *****");
         printCourseSize(courses);
+        System.out.println ("\n ---------------------------------");
+        System.out.println ("***** 5 - Print Course Name UpperCase *****");
+        printCourseUpperCase(courses);
     }
 
     private static void printAllList(List<String> list) {
@@ -44,6 +47,13 @@ public class PrintCoursesExercise {
         lists.stream()
                 .map(list -> list.length())
                 .forEach(size -> print(size.toString()));
+    }
+
+    private static void printCourseUpperCase(List<String> lists) {
+        lists.stream()
+                //.map(str -> str.toUpperCase())
+                .map(String::toUpperCase)
+                .forEach(PrintCoursesExercise::print);
     }
 
     private static void print(String course) {
